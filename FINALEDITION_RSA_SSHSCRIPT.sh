@@ -1,3 +1,4 @@
+#!/bin/bash
 printf "#################################################################################################################\n#\t\t\t\t\t\t\t\t\t\t\t\t\t\t#\n#\t\t\tSSH KEY COPY SCRIPT FOR EVERYONE WORKING IN LINUX BASH SHELL\t\t\t\t#\n#\t\t\t\t\t\t\t\t\t\t\t\t\t\t#\n#################################################################################################################\n\n"
 echo -e "\033[0;32m*** [ PLEASE TYPE 0 FOR OPTIONS ] ***\033[0m\n"
 while true
